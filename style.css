@@ -340,6 +340,6 @@ form {
     transition-duration: 0.3s;
     box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
 }
-.certificate_1:hover::before{
-    
+.education {
+    text-align: center;
 }
